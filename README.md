@@ -1,2 +1,0 @@
-# QuizApp
-Flutter Quiz App
